@@ -82,15 +82,15 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "TKfS5zVfGBc", name: "Trance - 009 Sound System Dreamscape"},
-	{youtube: "c_H3MWVx6JU", name: "009 Sound System OFFICIAL"},
-	{youtube: "xi20Si3jRIo", name: "N.O.H.A. - Tu Cafe´"},
-	{youtube: "Be3xAAtPEdg", name: "Party Maker"},
-	{youtube: "Ly7uj0JwgKg", name: "Flume - Never be like you"},
-	{youtube: "xMP-JqFQ_l4", name: "Vengaboys - Boom, Boom, Boom, Boom!!"},
-	{youtube: "nn5hCEMyE-E", name: "DJ Bobo - THERE IS A PARTY"},
-	{youtube: "IRvGZffXhfk", name: "ATC - All Around The World (la la la la la la la la)"},
-	{youtube: "mcf79OWnitM", name: "Pakito - Living On Video"},
+	{youtube: "YtmJnbZVsgI", name: "Mafia song"},
+	{youtube: "DGr-eV7YAlg", name: "City Music - Hoboken"},
+	{youtube: "pkYoXSE2bO0", name: "City Music - Central Island"},
+	{youtube: "JPRXG3zJpnw", name: "City Music - Downtown"},
+	{youtube: "bY81JakfhIE", name: "New Ark"},
+	{youtube: "6Xf1nNG7bSg", name: "Fighting Theme"},
+	{youtube: "ho_-T_n86nY", name: "Dean Martin - Let it snow"},
+	{youtube: "hsRr3S1yFt4", name: "The Fleetwoods - Come softly to me"},
+	{youtube: "akPHJb2ghVAnitM", name: "Duane Eddy - Forty miles of bad road"},
 ];
 
 /*Random music order?*/
